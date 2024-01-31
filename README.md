@@ -9,7 +9,7 @@ weather app
 https://github.com/warisamir/weather-app
 
 excel clone
-https://github.com/warisamir/my-Excel-clone
+https://excel-clone-alpha.vercel.app/
 
 spotify red
 https://github.com/warisamir/spotifyred.github.io
