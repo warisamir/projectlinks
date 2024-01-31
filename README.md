@@ -5,11 +5,8 @@ https://portfolio-warisamir.vercel.app/
 cheapkart.com
 https://github.com/warisamir/pkart.com.git
 
-weather app
-https://github.com/warisamir/weather-app
-
-excel clone
-https://excel-clone-alpha.vercel.app/
+blogging App
+https://github.com/warisamir/microservice-arch
 
 spotify red
 https://github.com/warisamir/spotifyred.github.io
@@ -30,6 +27,11 @@ https://github.com/warisamir/FoodApp
 AI photo suggestion 
 https://github.com/warisamir/AI-photographic-suggestion
 
+weather app
+https://github.com/warisamir/weather-app
+
+excel clone
+https://excel-clone-alpha.vercel.app/
  
  ml project
  
