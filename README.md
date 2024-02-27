@@ -27,7 +27,8 @@ AI photo suggestion
 https://github.com/warisamir/AI-photographic-suggestion
 
 portfolio: 
-https://portfolio-warisamir.vercel.app/
+https://portfolio-warisamir.vercel.app/ 
+
 weather app
 https://github.com/warisamir/weather-app
 
