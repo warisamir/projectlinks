@@ -1,6 +1,5 @@
 # projectlinks
-portfolio: 
-https://portfolio-warisamir.vercel.app/
+
 
 cheapkart.com
 https://github.com/warisamir/pkart.com.git
@@ -27,6 +26,8 @@ https://github.com/warisamir/FoodApp
 AI photo suggestion 
 https://github.com/warisamir/AI-photographic-suggestion
 
+portfolio: 
+https://portfolio-warisamir.vercel.app/
 weather app
 https://github.com/warisamir/weather-app
 
