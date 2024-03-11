@@ -26,6 +26,10 @@ https://github.com/warisamir/FoodApp
 AI photo suggestion 
 https://github.com/warisamir/AI-photographic-suggestion
 
+Some frontend Best tips:
+https://github.com/warisamir/frontend
+
+
 portfolio: 
 https://portfolio-warisamir.vercel.app/ 
 
